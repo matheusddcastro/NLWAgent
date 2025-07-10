@@ -6,4 +6,4 @@ This is an event that brings together thousands of developers to learn, grow, an
 Please note, this is a simple project as a IT student.
 Thanks to <a href="https://app.rocketseat.com.br/">RocketSeat</a>
 
-Built by <a href="https://www.linkedin.com/in/matheusddcastro/">Matheus Castrp</a>
+Built by <a href="https://www.linkedin.com/in/matheusddcastro/">Matheus Castro</a>
